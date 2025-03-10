@@ -59,7 +59,7 @@
     <summary><h3>$\color{violet}Follow\ me!$</h3></summary>
       <a href="https://space.bilibili.com/36023418"><code><img height="40" src="./image/bilibili.png"></code></a>
       <a href="https://www.youtube.com/@Asami_Akito"><code><img height="40" src="./image/youtube.png"></code></a>
-      <a href="https://u.wechat.com/MPFyomGSTER_0CmlvMDZALI"><code><img height="40" src="./image/wechat.png"></code></a>
+      <a href="./image/vx.png"><code><img height="40" src="./image/wechat.png"></code></a>
   </details>
     </td>
     <td>
