@@ -22,7 +22,7 @@
   <tr>
     <td>
       <img 
-        src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=450&duration=3000&pause=600&color=FFFFFF&color2=FFB07C&background=00000030&vCenter=true&multiline=true&repeat=false&width=600&height=320&lines=Hi%2C+I'm+AsamiAkito+aka+Jerriff+Liu;Compsci+student+of+University+of+Auckland;My+parents+tried+to+make+me+work+in+a+bank;But+as+you+can+see+here's+where+I+am;Don't+tell+my+parents+about+all+these;They+do+not+know+how+to+find+this+page;To+make+them+proud+I+will+work+in+that+bank;I+play+games+sometimes+that+they+also+have+no+clue+of;But+it's+fine%2C+don't+push+yourself+too+hard;Life+moves+on+and+you+will+move+on;Stick+with+your+destination+and+let+it+go+of+the+rest;Do+never+forget%3A+El+Psy+Congroo" 
+        src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=450&duration=3000&pause=600&color=FFFFFF&color2=FFB07C&background=00000050&vCenter=true&multiline=true&repeat=false&width=600&height=320&lines=Hi%2C+I'm+AsamiAkito+aka+Jerriff+Liu;Compsci+student+of+University+of+Auckland;My+parents+tried+to+make+me+work+in+a+bank;But+as+you+can+see+here's+where+I+am;Don't+tell+my+parents+about+all+these;They+do+not+know+how+to+find+this+page;To+make+them+proud+I+will+work+in+that+bank;I+play+games+sometimes+that+they+also+have+no+clue+of;But+it's+fine%2C+don't+push+yourself+too+hard;Life+moves+on+and+you+will+move+on;Stick+with+your+destination+and+let+it+go+of+the+rest;Do+never+forget%3A+El+Psy+Congroo" 
         alt="Typing SVG"
         style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"
       >
