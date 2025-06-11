@@ -39,17 +39,17 @@
     <td>
       =================================
       <details>
-  <summary><h3>$\color{violet}Things\ about\ me!$</summary>
+<summary><h3><span style="color:violet">Things about me!</span></h3></summary>
     The anime I'm currently watching is <a href="https://myanimelist.net/anime/56653/BanG_Dream_Ave_Mujica"><span>Ave Mujica</span></a>🎎 <br> 
     My favorite music is <a href="https://www.youtube.com/watch?v=Ap0huJwyT7g"><span>Fairy Town</span></a>🏰 <br> 
     My favorite city is <a href="https://en.wikipedia.org/wiki/Brisbane"><span>Brisbane</span></a>🎡<br>
     My favorite character is <a href="https://zh.moegirl.org.cn/%E7%92%83%E7%92%83%E5%AD%90"><span>Ririko</span></a>🖌️
   </details>
   <details>
-    <summary><h3>$\color{violet}Things\ ongoing!$</h3></summary>
+<summary><h3><span style="color:violet">Things ongoing!</span></h3></summary>
       <p>
-    <code>▓▓░░░░░░░ Japanese 20%</code><br>
-    <code>▓▓▓░░░░░░ Java 30%</code><br>
+    <code>▓▓▓░░░░░░ Japanese 30%</code><br>
+    <code>▓▓▓▓▓▓░░░ Java 60%</code><br>
     <code>▓▓▓▓░░░░░ HTML 40%</code><br>
     <code>▓░░░░░░░░ CSS 10%</code><br>
     <code>▓░░░░░░░░ Git 10%</code><br>
@@ -58,8 +58,9 @@
     <code>▓▓▓░░░░░░ R 30%</code><br>
     <code>▓▓▓▓▓▓▓░░ Python 80%</code><br>
     <code>▓░░░░░░░░ SpringBoot 10%</code><br>
+    <code>░░░░░░░░░ Cantonese 0%</code><br>
     Doing schoolwork<br>
-    Looking for girlfriend <strike>(I'm forced to do so)</strike><br>
+    <strike> Looking for girlfriend </strike> (I found her! She's cute!❤)<br>
     Looking for jobs <strike>(not that bank)</strike><br>
     Hitting the gym <strike>(not that often)</strike><br>
     Putting on weight <strike>(does't seem to work)</strike><br>
@@ -67,7 +68,7 @@
       </p>
     </details>
   <details>
-    <summary><h3>$\color{violet}Follow\ me!$</h3></summary>
+<summary><h3><span style="color:violet">Follow me!</span></h3></summary>
       <a href="https://space.bilibili.com/36023418"><code><img height="40" src="./image/bilibili.png" ></code></a>
       <a href="https://www.youtube.com/@Asami_Akito"><code><img height="40" src="./image/youtube.png"></code></a>
       <a href="./image/vx.png"><code><img height="40" src="./image/wechat.png"></code></a>
