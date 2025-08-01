@@ -52,7 +52,7 @@
     <code>▓▓▓▓▓▓░░░ Java 60%</code><br>
     <code>▓▓▓▓░░░░░ HTML 40%</code><br>
     <code>▓░░░░░░░░ CSS 10%</code><br>
-    <code>▓░░░░░░░░ Git 10%</code><br>
+    <code>▓▓▓▓▓░░░░ Git 50%</code><br>
     <code>▓▓▓▓░░░░░ Markdown 40%</code><br>
     <code>▓▓▓▓▓▓▓░░ Latex 80%</code><br>
     <code>▓▓▓░░░░░░ R 30%</code><br>
