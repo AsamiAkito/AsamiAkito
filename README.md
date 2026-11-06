@@ -1,90 +1,61 @@
-
-
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+JP&weight=500&size=50&duration=3000&pause=1000&color=FFB07C&center=true&vCenter=true&repeat=false&width=300&height=100&lines=%E6%B5%85+%E8%A6%8B+%E7%A7%8B+%E6%B8%A1" alt="Typing SVG" style="align-self: center;">
-  <img src="./image/mini-cat.gif" alt="minicat" style="align-self: center;">
+<!-- Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFB07C,50:F6A6B2,100:B39DDB&section=header&text=%E6%B5%85%E8%A6%8B%20%E7%A7%8B%E6%B8%A1&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=AsamiAkito&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://c.tenor.com/psw8n-2wuq4AAAAd/tenor.gif" width=220 alt="Trueman" >
-    </td>
-    <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F6D1D1&background=FF7F5000&center=true&vCenter=true&width=800&lines=Good+morning!;And+in+case+I+don't+see+ya;Good+afternoon%2C+good+evening%2C+and+good+night!" alt="Typing SVG">    
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/AsamiAkito">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=FFB07C&center=true&vCenter=true&width=520&lines=Hello%2C+world!;Welcome+to+my+space+%E2%9C%A8;El+Psy+Kongroo." alt="Typing SVG" />
+  </a>
+</p>
 
-* * *
+<p align="center">
+  <img src="./image/mini-cat.gif" height="60" alt="mini cat" />
+</p>
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=450&duration=3000&pause=600&color=FFFFFF&color2=FFB07C&background=00000050&vCenter=true&multiline=true&repeat=false&width=600&height=320&lines=Hi%2C+I'm+AsamiAkito+aka+Jerriff+Liu;Compsci+student+of+University+of+Auckland;My+parents+tried+to+make+me+work+in+a+bank;But+as+you+can+see+here's+where+I+am;Don't+tell+my+parents+about+all+these;They+do+not+know+how+to+find+this+page;To+make+them+proud+I+will+work+in+that+bank;I+play+games+sometimes+that+they+also+have+no+clue+of;But+it's+fine%2C+don't+push+yourself+too+hard;Life+moves+on+and+you+will+move+on;Stick+with+your+destination+and+let+it+go+of+the+rest;Do+never+forget%3A+El+Psy+Congroo" 
-        alt="Typing SVG">
-    </td>
-    <td>
-      <img src="https://c.tenor.com/S4JFXWlp2BEAAAAC/tenor.gif" alt="psy">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://space.bilibili.com/36023418"><img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+  <a href="https://www.youtube.com/@Asami_Akito"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="./image/vx.png"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AsamiAkito&style=for-the-badge&color=FFB07C&label=VISITORS" alt="visitors" />
+</p>
 
+<br />
 
+<!-- Tech stack -->
+<h3 align="center">🛠️ Tech Stack</h3>
 
-* * *
-<table>
-  <tr>
-    <td>
-      =================================
-      <details>
-<summary><h3><span style="color:violet">Things about me!</span></h3></summary>
-    The anime I'm currently watching is <a href="https://myanimelist.net/anime/56653/BanG_Dream_Ave_Mujica"><span>Ave Mujica</span></a>🎎 <br> 
-    My favorite music is <a href="https://www.youtube.com/watch?v=Ap0huJwyT7g"><span>Fairy Town</span></a>🏰 <br> 
-    My favorite city is <a href="https://en.wikipedia.org/wiki/Brisbane"><span>Brisbane</span></a>🎡<br>
-    My favorite character is <a href="https://zh.moegirl.org.cn/%E7%92%83%E7%92%83%E5%AD%90"><span>Ririko</span></a>🖌️
-  </details>
-  <details>
-<summary><h3><span style="color:violet">Things ongoing!</span></h3></summary>
-      <p>
-    <code>▓▓▓░░░░░░ Japanese 30%</code><br>
-    <code>▓▓▓▓▓▓░░░ Java 60%</code><br>
-    <code>▓▓▓▓░░░░░ HTML 40%</code><br>
-    <code>▓░░░░░░░░ CSS 10%</code><br>
-    <code>▓▓▓▓▓░░░░ Git 50%</code><br>
-    <code>▓▓▓▓░░░░░ Markdown 40%</code><br>
-    <code>▓▓▓▓▓▓▓░░ Latex 80%</code><br>
-    <code>▓▓▓░░░░░░ R 30%</code><br>
-    <code>▓▓▓▓▓▓▓░░ Python 80%</code><br>
-    <code>▓░░░░░░░░ SpringBoot 10%</code><br>
-    <code>░░░░░░░░░ Cantonese 0%</code><br>
-    Doing schoolwork<br>
-    <strike> Looking for girlfriend </strike> (I found her! She's cute!❤)<br>
-    Looking for jobs <strike>(not that bank)</strike><br>
-    Hitting the gym <strike>(not that often)</strike><br>
-    Putting on weight <strike>(does't seem to work)</strike><br>
-    Catching up on missed animes (currently: K-ON)
-      </p>
-    </details>
-  <details>
-<summary><h3><span style="color:violet">Follow me!</span></h3></summary>
-      <a href="https://space.bilibili.com/36023418"><code><img height="40" src="./image/bilibili.png" ></code></a>
-      <a href="https://www.youtube.com/@Asami_Akito"><code><img height="40" src="./image/youtube.png"></code></a>
-      <a href="./image/vx.png"><code><img height="40" src="./image/wechat.png"></code></a>
-  </details>
-    </td>
-    <td>
-      <img  src="https://c.tenor.com/Fi50xWHQnqsAAAAC/tenor.gif" width=580 alt="Mortis">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,spring,r,html,css,latex,md,git,github,vscode,idea&perline=12&theme=dark" alt="tech stack" />
+  </a>
+</p>
 
-  
+<br />
 
-  
+<!-- Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AsamiAkito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB07C&icon_color=F6A6B2&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsamiAkito&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB07C&text_color=C9D1D9" alt="Top languages" />
+</p>
 
-* * *
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AsamiAkito&hide_border=true&background=0D1117&ring=FFB07C&fire=F6A6B2&currStreakLabel=FFB07C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+</p>
 
-  <img src="./image/nixie clock.gif" width="1000" alt="1.048596">
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AsamiAkito&hide_border=true&bg_color=0D1117&color=FFB07C&line=F6A6B2&point=FFFFFF&area=true&area_color=FFB07C" alt="Activity graph" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./image/nixie%20clock.gif" width="80%" alt="nixie clock" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:B39DDB,50:F6A6B2,100:FFB07C&section=footer" alt="footer" />
+</p>
